@@ -1,0 +1,211 @@
+{
+  "createdTime": "2016-02-04T13:43:01.853Z",
+  "modifiedTime": "2024-08-25T08:09:51.397Z",
+  "deviceSettings": [{
+    "deviceTag": -1164758055,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2201",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-07-11T19:05:48.545Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-11T19:05:48.545Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "V2201T",
+      "device": "V2201",
+      "model": "V2201",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": 744891173,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-S911B",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-07-05T17:38:28.210Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-05T17:38:28.210Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "dm1qxxx",
+      "device": "dm1q",
+      "model": "SM-S911B",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": -1246749741,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-S911B",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-07-05T11:49:29.323Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-05T11:49:29.323Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "dm1qxxx",
+      "device": "dm1q",
+      "model": "SM-S911B",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -2005316094,
+    "reportingEnabled": false,
+    "legalCountryCode": "id",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-07-05T05:34:41.012Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-05T05:34:41.012Z"
+    },
+    "iosVersion": "17.5.1",
+    "deviceSpec": {
+      "device": "iPhone12,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": 420145388,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2201",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-07-01T22:12:14.322Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-01T22:12:14.322Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "V2201T",
+      "device": "V2201",
+      "model": "V2201",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -1964846451,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2201",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-06-29T02:11:17.135Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-06-29T02:11:17.135Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "V2201T",
+      "device": "V2201",
+      "model": "V2201",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": 2144264887,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2130",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-04-12T06:55:56.407Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-12T06:55:56.407Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "2130T",
+      "device": "2130",
+      "model": "V2130",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }, {
+    "deviceTag": -13109473,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2130",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-01-01T01:52:09.551Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-01-01T01:52:09.551Z"
+    },
+    "androidOsLevel": 34,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "2130T",
+      "device": "2130",
+      "model": "V2130",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2022-07-20T15:35:08.721660783Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": true,
+    "updateTime": "2024-07-11T18:23:39.744237453Z"
+  },
+  "encryptedBackupsControls": {
+    "-13109473": {
+      "enabled": false
+    },
+    "420145388": {
+      "enabled": false
+    },
+    "744891173": {
+      "enabled": false
+    },
+    "2144264887": {
+      "enabled": false
+    },
+    "-2005316094": {
+      "enabled": false
+    },
+    "-1964846451": {
+      "enabled": false,
+      "updateTime": "2024-07-08T15:16:26.483805193Z"
+    },
+    "-1246749741": {
+      "enabled": false
+    },
+    "-1164758055": {
+      "enabled": false,
+      "updateTime": "2024-08-25T08:09:51.397424024Z"
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-06-24T09:38:40.371Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2024-06-22T02:00:29.287Z"
+  }
+}
